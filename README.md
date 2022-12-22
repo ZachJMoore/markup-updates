@@ -2,7 +2,7 @@
 
 MarkUp is a quick and convenient tool for things like: 1) annotating your screen. 2) guiding others during presentations or screen sharing. 3) and brainstorming with quick sketches. It's easy to use - just run the app in the background and click the pencil icon to start drawing anywhere on your screen.
 
-![Screenshot 2022-12-22 at 2 15 1](https://user-images.githubusercontent.com/9916553/209227391-73d7a7e8-0a48-4f6f-85a5-5bbc276aec16.png)
+![screenshot](https://user-images.githubusercontent.com/9916553/209228032-62302f3d-2deb-45de-bb03-76861d77cb96.png)
 
 MarkUp is available on the following platforms:
 - [x] MacOS
