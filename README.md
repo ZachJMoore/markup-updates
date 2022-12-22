@@ -1,15 +1,8 @@
-# MarkUp Updates
+# Welcome to MarkUp!
 
-A public home for all MarkUp information, updates, documentation, and releases.
+MarkUp is a quick and convenient tool for things like: 1) annotating your screen. 2) guiding others during presentations or screen sharing. 3) and brainstorming with quick sketches. It's easy to use - just run the app in the background and click the pencil icon to start drawing anywhere on your screen.
 
-# What is MarkUp?
-
-MarkUp is a standalone application that allows you to quickly and easily draw over anything on your screen. You can use it for things like: 1) annotating before taking screenshots. 2) guiding others while giving a presentation or screen sharing. 3) or using whiteboard mode to make quick sketches when brainstorming.
-
-It simply runs in the background, and when your ready, click the pencil icon to start drawing wherever you are at.
-
-## Supported Platforms
-
+MarkUp is available on the following platforms:
 - [x] MacOS
     - [x] M1 / ARM
     - [ ] Intel
@@ -19,7 +12,7 @@ It simply runs in the background, and when your ready, click the pencil icon to 
 ## Features
 
 - [x] Draw over any application
-- [x] Works on any desktop (including fullscreen)
+- [x] Stays active when moving between desktops (including fullscreen)
 - [x] Customizable pencil color
 - [x] Whiteboard mode (use a solid background color instead of transparent)
 - [x] Drawing history with undo/redo support
@@ -68,8 +61,9 @@ If you need to quit the application to free up resources, simply right click the
 
 # Roadmap
 
-- [ ] Collaboration with other users
-- [ ] More platform support
-- [ ] Download landing page
+We have big plans for the future of MarkUp, including:
+* The ability to collaborate with other users
+* Support for even more platforms
+* A dedicated download landing page
 
-And much more...
+Stay tuned for updates!
