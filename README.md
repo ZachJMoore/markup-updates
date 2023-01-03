@@ -1,19 +1,25 @@
 # Welcome to MarkUp!
 
-MarkUp is a quick and convenient tool for things like: 1) annotating your screen. 2) guiding others during presentations or screen sharing. 3) and brainstorming with quick sketches. It's easy to use - just run the app in the background and click the pencil icon to start drawing anywhere on your screen.
+MarkUp is a quick and convenient tool for things like: 1) annotating your screen. 2) guiding others during presentations or screen sharing. 3) brainstorming with quick sketches. 4). and collaborating with others in real-time. It's easy to use - just run the app in the background and click the pencil icon to start drawing anywhere on your screen. Or, start a collaboration session to draw on the same screen.
 
 ![screenshot](https://user-images.githubusercontent.com/9916553/209228032-62302f3d-2deb-45de-bb03-76861d77cb96.png)
 
 MarkUp is available on the following platforms:
 - [x] MacOS
     - [x] M1 / ARM
-    - [ ] Intel
+    - [x] Intel (untested)
+- [x] Linux (untested)
 - [ ] Windows
-- [ ] Linux
 
 ## Features
 
-- [x] Draw over any application
+Pro only:
+- [x] Collaborate with others using any screen sharing application
+- [x] Draw over a hosts screen (drawings stay visible while host interacts with other windows)
+- [x] Communicate and draw with guests in real-time
+
+Available for all:
+- [x] Draw over any local application
 - [x] Stays active when moving between desktops (including fullscreen)
 - [x] Customizable pencil color
 - [x] Whiteboard mode (use a solid background color instead of transparent)
@@ -32,6 +38,10 @@ MarkUp is available on the following platforms:
 4. Start the application
 
 At this point, you shouln't need to do any additional setup, simply looks for the pencil icon in your status bar.
+
+### Pro Features
+
+You can purchase a license (coming soon), or start a 30-day free trial. Simply head to the settings and look for the "MarkUp Pro" section.
 
 ### Usage
 
@@ -57,6 +67,15 @@ There are three ways to stop drawing:
 - Use the action bar
 - Press the ESC key
 
+### Collaboration Mode
+
+To start a collaboration session:
+1. Use any screen sharing application to share your whole screen with a group
+2. Open the settings dropdown and start a new collaboration session
+3. A QR code will be displayed. Make sure you participants can see it.
+4. Each participant should open MarkUp locally and click join session.
+5. Start drawing!
+
 ### How to quit
 
 If you need to quit the application to free up resources, simply right click the pencil icon in the status bar. This will present a menu with the only option being to quit. Press it and the application will close itself completely.
@@ -64,8 +83,8 @@ If you need to quit the application to free up resources, simply right click the
 # Roadmap
 
 We have big plans for the future of MarkUp, including:
-* The ability to collaborate with other users
-* Support for even more platforms
-* A dedicated download landing page
+[x] The ability to collaborate with other users
+[ ] Support for even more platforms
+[ ] A dedicated download landing page
 
 Stay tuned for updates!
