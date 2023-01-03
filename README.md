@@ -72,7 +72,7 @@ There are three ways to stop drawing:
 To start a collaboration session:
 1. Use any screen sharing application to share your whole screen with a group
 2. Open the settings dropdown and start a new collaboration session
-3. A QR code will be displayed. Make sure you participants can see it.
+3. A QR code will be displayed. Make sure your participants can see it.
 4. Each participant should open MarkUp locally and click join session.
 5. Start drawing!
 
@@ -83,8 +83,9 @@ If you need to quit the application to free up resources, simply right click the
 # Roadmap
 
 We have big plans for the future of MarkUp, including:
-[x] The ability to collaborate with other users
-[ ] Support for even more platforms
-[ ] A dedicated download landing page
+- [x] The ability to collaborate with other users
+- [ ] Advanced always changing pencil color
+- [ ] Support for even more platforms
+- [ ] A dedicated download landing page
 
 Stay tuned for updates!
