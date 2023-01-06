@@ -9,7 +9,7 @@ MarkUp is available on the following platforms:
     - [x] M1 / ARM
     - [x] Intel (untested)
 - [x] Linux (untested)
-- [ ] Windows
+- [x] Windows (untested)
 
 ## Features
 
