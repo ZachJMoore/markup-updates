@@ -7,9 +7,9 @@ MarkUp is a quick and convenient tool for things like: 1) annotating your screen
 MarkUp is available on the following platforms:
 - [x] MacOS
     - [x] M1 / ARM
-    - [x] Intel (untested)
-- [x] Linux (untested)
-- [x] Windows (untested)
+    - [x] Intel
+- [ ] Linux (partial support / untested)
+- [ ] Windows (partial supported / untested)
 
 ## Features
 
